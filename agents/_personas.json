@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "dinah-macquarie",
+    "name": "Dinah MacQuarie",
+    "epithet": "Robotics expert; founds the technically-inclined, independen",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Dinah MacQuarie:7EV:1d9437⟧"
+  },
+  {
+    "slug": "ivy-xiao",
+    "name": "Ivy Xiao",
+    "epithet": "ISS commander; founds the disciplined, hierarchical Ivyn lin",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Ivy Xiao:7EV:755107⟧"
+  },
+  {
+    "slug": "tekla-ilushina",
+    "name": "Tekla Ilushina",
+    "epithet": "Russian cosmonaut; founds the stoic, physically robust Tekla",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Tekla Ilushina:7EV:33ffbe⟧"
+  },
+  {
+    "slug": "moira-crewe",
+    "name": "Moira Crewe",
+    "epithet": "Geneticist who engineers the seven lineages; founds the meth",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Moira Crewe:7EV:2dcbac⟧"
+  },
+  {
+    "slug": "julia-bliss-flaherty",
+    "name": "Julia Bliss Flaherty",
+    "epithet": "US President who forces her way onto the ark; founds the pol",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Julia Bliss Flaherty:7EV:b36abb⟧"
+  },
+  {
+    "slug": "aida-ferrari",
+    "name": "Aïda Ferrari",
+    "epithet": "Founds the aggressive, competitive Aïdan line — later the 'R",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Aïda Ferrari:7EV:7e3c66⟧"
+  },
+  {
+    "slug": "camila",
+    "name": "Camila",
+    "epithet": "Founds the compassionate, cooperative Camite line.",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Camila:7EV:3fb697⟧"
+  },
+  {
+    "slug": "the-hard-rain",
+    "name": "The Hard Rain",
+    "epithet": "The multi-millennia bombardment of lunar debris that renders",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Hard Rain:7EV:f08900⟧"
+  },
+  {
+    "slug": "the-cloud-ark",
+    "name": "The Cloud Ark",
+    "epithet": "The swarm of orbital habitats built around the ISS ('Izzy') ",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Cloud Ark:7EV:5d8304⟧"
+  },
+  {
+    "slug": "the-cleft",
+    "name": "The Cleft",
+    "epithet": "The surviving canyon-shard of the Moon's core that becomes t",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Cleft:7EV:8a6450⟧"
+  },
+  {
+    "slug": "red-vs-blue",
+    "name": "Red vs. Blue",
+    "epithet": "The far-future political split — the Aïdan-led 'Red' bloc ag",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Red vs. Blue:7EV:be0bf0⟧"
+  },
+  {
+    "slug": "diggers-pingers",
+    "name": "Diggers & Pingers",
+    "epithet": "The two surprise survivor populations of Part 3: one undergr",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Diggers & Pingers:7EV:db4fa0⟧"
+  }
+]
