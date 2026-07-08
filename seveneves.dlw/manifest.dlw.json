@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "Seven women, one shattered sky, five thousand years. Engineering as the only prayer that ever gets answered.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 896,
+    "prev": "f27024888f7dd9d2bda79a321498ecb4b7002f8a76be27f67e4764b074686830",
+    "link": "80b1fab2f7a3bf53c28c48e9796734b7c8c6362882728ebe28d5ea1d4c5da9a0",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
